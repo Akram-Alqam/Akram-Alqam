@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on React
 
-- 👨‍💻 Always available on [https://jfralqhzzeadnpkpcjzutw.on.drv.tw/coffee-menu/My-website/#](https://jfralqhzzeadnpkpcjzutw.on.drv.tw/coffee-menu/My-website/#)
-
 - 📫 How to reach me akrmlqm07@gmail.com
 
 - ⚡Don't stop encrypting every time u die
