@@ -1,7 +1,7 @@
 <h1 align="center">👾Akram Alqam👋</h1>
 <h3 align="center">I am a student at Poltechnic University of Palestine and I study computer science, and I work at Front-End, very passionate about the world of web development and very excited to work on software in BE.</h3>
 
-<p align="left"> <img src="x.gif" alt="akram-alqam" /></p>
+<p align="left"> <img src="blob:https://giphy.com/965d64c4-1132-4ee3-92d1-11dea8d3c620" alt="akram-alqam" /></p>
 
 - 🌱 I’m currently learning C++
 
