@@ -1,5 +1,5 @@
-<h1 align="center">👾Akram Alqam👋</h1>
-<h3 align="center">I am a student at Poltechnic University of Palestine and I study computer science, and I work at Front-End, very passionate about the world of web development and very excited to work on software in BE.</h3>
+<h1 align="left">👾Akram Alqam👋</h1>
+<h3 align="left" srtye="color🔧;">I am a student at Poltechnic University of Palestine and I study computer science, and I work at Front-End, very passionate about the world of web development and very excited to work on software in BE.</h3>
 
 - 🌱 I’m currently learning C++
 
