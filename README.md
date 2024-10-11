@@ -1,19 +1,17 @@
 <h1 align="center">👾Akram Alqam👋</h1>
 <h3 align="center">I am a student at Poltechnic University of Palestine and I study computer science, and I work at Front-End, very passionate about the world of web development and very excited to work on software in BE.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akram-alqam&label=Profile%20views&color=0e75b6&style=flat" alt="akram-alqam" /> </p>
+<p align="left"> <img src="x.gif" alt="akram-alqam" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akram-alqam" alt="akram-alqam" /></a> </p>
+- 🌱 I’m currently learning C++
 
-- 🌱 I’m currently learning **C++**
-
-- 👯 I’m looking to collaborate on **React**
+- 👯 I’m looking to collaborate on React
 
 - 👨‍💻 Always available on [https://jfralqhzzeadnpkpcjzutw.on.drv.tw/coffee-menu/My-website/#](https://jfralqhzzeadnpkpcjzutw.on.drv.tw/coffee-menu/My-website/#)
 
-- 📫 How to reach me **akrmlqm07@gmail.com**
+- 📫 How to reach me akrmlqm07@gmail.com**
 
-- ⚡ Fun fact **Don't stop encrypting every time u die**
+- ⚡Don't stop encrypting every time u die**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
