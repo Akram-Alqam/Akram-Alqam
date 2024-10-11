@@ -7,9 +7,9 @@
 
 - 👨‍💻 Always available on [https://jfralqhzzeadnpkpcjzutw.on.drv.tw/coffee-menu/My-website/#](https://jfralqhzzeadnpkpcjzutw.on.drv.tw/coffee-menu/My-website/#)
 
-- 📫 How to reach me akrmlqm07@gmail.com**
+- 📫 How to reach me akrmlqm07@gmail.com
 
-- ⚡Don't stop encrypting every time u die**
+- ⚡Don't stop encrypting every time u die
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
