@@ -1,5 +1,4 @@
-## Hi there 👋
-<h1 align="center">Hi, I'm Akram Alqam👋</h1>
+<h1 align="center">## Hi there, I'm Akram Alqam👋</h1>
 <h3 align="center">I am a student at Poltechnic University of Palestine and I study computer science, and I work at Front-End, very passionate about the world of web development and very excited to work on software in BE.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akram-alqam&label=Profile%20views&color=0e75b6&style=flat" alt="akram-alqam" /> </p>
